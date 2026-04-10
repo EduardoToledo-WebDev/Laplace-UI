@@ -116,7 +116,7 @@ export default function GraficaLaplace() {
 
             {/* PARTE 1: SIEMPRE VISIBLE (Telemetría y Canvas) */}
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '15px' }}>
-                <h4 style={{ margin: 0, color: '#333' }}>Telemetría del sistema</h4>
+                <h4 style={{ margin: 0, color: '#333' }}>Telemetría en vivo</h4>
                 <div
                     ref={liveStatsRef}
                     style={{ background: '#212529', color: '#20c997', padding: '5px 15px', borderRadius: '20px', fontFamily: 'monospace', fontWeight: 'bold', fontSize: '14px' }}
