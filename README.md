@@ -6,7 +6,7 @@ El resultado es un laboratorio visual con componentes de interfaz (botones, tarj
 
 ## 🌐 Laplace UI Demo
 
-![Laplace UI Demo](https://laplace-ui.vercel.app/)
+https://laplace-ui.vercel.app/
 
 ## 🚀 Características Principales
 
